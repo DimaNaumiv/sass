@@ -15,12 +15,14 @@
   cursor: pointer;
 }
 
-.head_text, .second_screen_head {
+.head_text,
+.second_screen_head {
   font-size: 32px;
   font-weight: 800;
 }
 
-.desc_text, .second_screen_desc {
+.desc_text,
+.second_screen_desc {
   font-size: 14px;
 }
 
@@ -103,37 +105,37 @@ header .header_icons {
   margin: 40px auto;
 }
 .picture_box .icon-1 {
-  background-image: url("../../image/1.jpeg");
+  background-image: url("./../image/1.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
 }
 .picture_box .icon-2 {
-  background-image: url("../../image/2.jpeg");
+  background-image: url("./../image/2.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
 }
 .picture_box .icon-3 {
-  background-image: url("../../image/3.jpeg");
+  background-image: url("./../image/3.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
 }
 .picture_box .icon-4 {
-  background-image: url("../../image/4.jpeg");
+  background-image: url("./../image/4.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
 }
 .picture_box .icon-5 {
-  background-image: url("../../image/5.jpeg");
+  background-image: url("./../image/5.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
 }
 .picture_box .icon-6 {
-  background-image: url("../../image/6.jpeg");
+  background-image: url("./../image/6.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
@@ -179,4 +181,4 @@ footer .footer_btn {
   border: none;
   padding: 10px 20px;
   cursor: pointer;
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */
